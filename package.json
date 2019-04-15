@@ -6,7 +6,7 @@
   "scripts": {
     "start": "budo index.js:bundle.js"
   },
-  "author": "bhargavbhat95@gmail.com",
+  "author": "bhargavbhat95@gmail.com" "kiran.kr1995@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "budo": "^11.3.2"
